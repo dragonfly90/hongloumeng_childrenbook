@@ -22,16 +22,18 @@
 
 ## 故事目录
 
-1. [第一章 - 大观园的故事开始](chapters/chapter01.md)
-2. [第二章 - 林妹妹来了](chapters/chapter02.md)
-3. [第三章 - 宝钗姐姐的金锁](chapters/chapter03.md)
-4. [第四章 - 大观园里的新朋友](chapters/chapter04.md)
-5. [第五章 - 刘姥姥进大观园](chapters/chapter05.md)
-6. [第六章 - 诗社的趣事](chapters/chapter06.md)
-7. [第七章 - 中秋节的月饼](chapters/chapter07.md)
-8. [第八章 - 冬天的雪](chapters/chapter08.md)
-9. [第九章 - 宝玉的生日会](chapters/chapter09.md)
-10. [第十章 - 友谊最珍贵](chapters/chapter10.md)
+| 章节 | 标题 | 阅读 |
+|------|------|------|
+| 第一章 | 大观园的故事开始 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter01.md) |
+| 第二章 | 林妹妹来了 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter02.md) |
+| 第三章 | 宝钗姐姐的金锁 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter03.md) |
+| 第四章 | 大观园里的新朋友 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter04.md) |
+| 第五章 | 刘姥姥进大观园 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter05.md) |
+| 第六章 | 诗社的趣事 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter06.md) |
+| 第七章 | 中秋节的月饼 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter07.md) |
+| 第八章 | 冬天的雪 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter08.md) |
+| 第九章 | 宝玉的生日会 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter09.md) |
+| 第十章 | 友谊最珍贵 | [📖 阅读](https://github.com/dragonfly90/hongloumeng_childrenbook/blob/main/chapters/chapter10.md) |
 
 ## 适合年龄
 
